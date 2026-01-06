@@ -10,6 +10,8 @@ $link = array(
     'label' => $label,    
 ] = $link;
 
+// Using the new $variables
+
 echo 'This is the label:' . $label;
 echo 'This is the url:' . $url;
 echo 'and they are easy to use!'
